@@ -1,0 +1,18 @@
+{
+  "name": "cmdproject",
+  "version": "1.0.0",
+  "description": "This is a demonstration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KristijanKiko?CMDProject.git"
+  },
+  "author": "Kristijan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
